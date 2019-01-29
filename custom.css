@@ -88,26 +88,26 @@ body,
 	  height: 100%;
 	}
 .item:nth-child(1) {
-	  background-image: url("../images/default.jpg");
+	  background-image: url("http://www.ifibre.co.uk/cbdigital/images/default.jpg");
 	  background-position: center center;
 	  background-repeat: no-repeat;
 	  background-size: cover;  
 	}
 .item:nth-child(2) {
-	  background-image: url("../images/media-rooms.png");
+	  background-image: url("http://www.ifibre.co.uk/cbdigital/images/media-rooms.png");
 	  background-position: center center;
 	  background-repeat: no-repeat;
 	  background-size: cover;  
 	}
 	
 .item:nth-child(3) {
-	  background-image: url("../images/lionheart.jpg");
+	  background-image: url("http://www.ifibre.co.uk/cbdigital/images/lionheart.jpg");
 	  background-position: center center;
 	  background-repeat: no-repeat;
 	  background-size: cover;
 	}
 .item:nth-child(4) {
-	  background-image: url("../images/home-cinema.png");
+	  background-image: url("http://www.ifibre.co.uk/cbdigital/images/home-cinema.png");
 	  background-position: center center;
 	  background-repeat: no-repeat;
 	  background-size: cover;

@@ -88,7 +88,7 @@ body,
 	  height: 100%;
 	}
 .item:nth-child(1) {
-	  background-image: url("./images/default.jpg");
+	  background-image: url("./img/default.jpg");
 	  background-position: center center;
 	  background-repeat: no-repeat;
 	  background-size: cover;  
@@ -412,23 +412,23 @@ hr {
 }
 
 #brands {
-	background-image: url("../images/rti-products.jpg");
+	background-image: url("../img/rti-products.jpg");
 }
 
 #projects {
-	background-image: url("../images/ty-soho-up.jpg");
+	background-image: url("../img/ty-soho-up.jpg");
 }
 
 #services {
-	background-image: url("../images/lionheart-int.png");
+	background-image: url("../img/lionheart-int.png");
 }
 
 #about {
-	background-image: url("../images/apartment-sw1-lounge.png");	
+	background-image: url("../img/apartment-sw1-lounge.png");	
 }
 
 #journey {
-	background-image: url("../images/boat-sat.jpg");
+	background-image: url("../img/boat-sat.jpg");
 	
 }
 
@@ -437,15 +437,15 @@ hr {
 }
 
 #contact {
-	background-image: url("../images/world-map.svg");
+	background-image: url("../img/world-map.svg");
 }
 
 #ap-sw1{
-	background-image: url("../images/apartment-sw1-lounge.png");
+	background-image: url("../img/apartment-sw1-lounge.png");
 }
 
 #404 {
-	background-image: url("../images/zig-zag.jpg");
+	background-image: url("../img/zig-zag.jpg");
 }
  
 #4 {

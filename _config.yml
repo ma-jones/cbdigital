@@ -1,6 +1,8 @@
 # Site settings
 title:
 email:
+owner: Your Name # or company name
+first_published: 2016
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/cbdigital" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site

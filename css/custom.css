@@ -1,5 +1,7 @@
 /*MAJ CUSTOM*/
 
+.dropdown:hover .dropdown-menu {display: block;}
+
 body{
      padding-top: 0px; 
      padding-bottom: 60px;
@@ -88,7 +90,7 @@ body,
 	  height: 100%;
 	}
 .item:nth-child(1) {
-	  background-image: url("./img/default.jpg");
+	  background-image: url("../img/default.jpg");
 	  background-position: center center;
 	  background-repeat: no-repeat;
 	  background-size: cover;  

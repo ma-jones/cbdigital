@@ -5,7 +5,7 @@
 body{
      padding-top: 0px; 
      padding-bottom: 60px;
-     font-family: 'Montserrat', sans-serif;
+	 font-family: 'Montserrat', sans-serif;
      background-color: rgba(23, 13, 13, 0);    
 }
 
@@ -38,7 +38,7 @@ ul, ol {
 }
 
 li .colour {
-	color: 
+	color: white;
 }
 
 /* Jumotron & Carousel
@@ -255,35 +255,10 @@ h2, .h2 {
 /* Links
 -------------------------------------------------- */
 
-.click-btn, a:hover, a:focus {
-    /*background-color: #21242b;*/
-   
-}
-
-.click-btn, a:active {
-	/*background-color: #21242b;*/
-
-}
-
-.click-btn, a:link{
-	/*background-color: #21242b;*/
-
-}
-
-.click-btn, a {
-	/*background-color: #21242b;*/
-}
-
-
 
 a:hover, a:focus {
     color: #B19B57;
    
-}
-
-
-a:link{
-
 }
 
 a {

@@ -214,11 +214,6 @@ body,
     padding: 12%;
 }
 
-
-/*.wht-bg {
-	background-color: #fff;
-}*/
-
 /*Hamburger
 --------------------------------------------------*/
 
@@ -388,6 +383,18 @@ hr {
     background-color: #563c90;
 }
 
+.container-ipad {
+	padding-left: 50px;
+	padding-right: 50px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: -25px;
+	}
+
+/* Images
+-------------------------------------------------- */
+
 #brands {
 	background-image: url("../img/rti-products.jpg");
 }
@@ -434,24 +441,6 @@ hr {
 #light-purple {
 	background-color: #563c90;
 }
-
-.container-ipad {
-padding-left: 50px;
-padding-right: 50px;
-background-position: center center;
-background-repeat: no-repeat;
-background-size: cover;
-margin-top: -25px;
-/*background-image: url("../images/ipad.png");*/
-}
-
-/*.interactive_container .ipad .inner {
-    width: 660px;
-    height: 246px;
-    position: absolute;
-    left: 77px;
-    top: 73px;
-}*/
 
 #bg-gradient {
     background-image: -moz-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);

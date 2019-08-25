@@ -1,1 +1,18 @@
+---
+layout: page
+title: 404
+---
 
+<div class="container-fluid" id="404">
+	<div class = "row text-center">
+		<div class = "col-md-12">
+			<ul>
+				<li><strong>ERROR 404!</strong></li>
+				<li>File not found</li>
+				<li>The site configured at this address does not contain the requested file.</li>
+				<li>If this is your site, make sure that the filename case matches the URL.</li>
+				<li><a href="http://ifibre.co.uk/">CB Digital Home Page</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

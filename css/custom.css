@@ -395,6 +395,12 @@ hr {
 /* Images
 -------------------------------------------------- */
 
+#crestron {
+	background-image: url("../img/rti-products.jpg");
+}
+#rti {
+	background-image: url("../img/rti-products.jpg");
+}
 #brands {
 	background-image: url("../img/rti-products.jpg");
 }

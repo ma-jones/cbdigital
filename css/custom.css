@@ -32,6 +32,22 @@ body{
     text-transform: uppercase;
 }
 
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+
+    text-transform: uppercase;
+
+}
+.dropdown-menu > li > a {
+
+    text-transform: uppercase;
+
+}
+.dropdown-menu > li > a {
+
+    text-transform: uppercase;
+
+}
+
 .navbar-brand > img {
     margin-top: -10px;
 }

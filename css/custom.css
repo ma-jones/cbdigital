@@ -549,7 +549,10 @@ body {
  .testimonials ul li p {
     margin: 15px 0px 15px 15px; 
  }
-    
+	
+ .h1, h1 {
+    font-size: 24px;
+}
 
 	
 }

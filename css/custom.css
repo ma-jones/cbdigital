@@ -6,7 +6,8 @@ body{
      padding-top: 0px; 
      padding-bottom: 60px;
 	 font-family: 'Montserrat', sans-serif;
-     background-color: rgba(23, 13, 13, 0);    
+	 background-color: rgba(23, 13, 13, 0); 
+	    
 }
 
 .navbar-brand > img {
@@ -452,6 +453,10 @@ hr {
 }
 
 #ty-w1{
+	background-image: url("../img/ty-soho.jpg");
+}
+
+#ty-wc2{
 	background-image: url("../img/ty-soho.jpg");
 }
 

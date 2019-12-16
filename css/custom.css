@@ -396,7 +396,7 @@ hr {
 -------------------------------------------------- */
 
 #crestron {
-	background-image: url("../img/rti-products.jpg");
+	background-image: url("../img/crestron.jpg");
 }
 #rti {
 	background-image: url("../img/rti-products.jpg");
@@ -411,6 +411,10 @@ hr {
 }
 
 #sonos {
+	background-image: url("../img/rti-products.jpg");
+}
+
+#ruckus-wireless {
 	background-image: url("../img/rti-products.jpg");
 }
 

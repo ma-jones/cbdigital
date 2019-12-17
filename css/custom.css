@@ -17,6 +17,7 @@ body{
 
 .navbar {
 border-color: rgb(196, 17, 115);
+text-align: center;
 }
 
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {

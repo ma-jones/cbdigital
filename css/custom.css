@@ -22,7 +22,7 @@ body{
 	padding: 15px;
 }
 
-.navbar-inverse {
+/*.navbar-inverse {
 	background-image: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%,
 	rgba(250, 0, 118, 0.8) 100%);
 }

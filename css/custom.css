@@ -19,6 +19,11 @@ body{
     width: auto;
 }
 
+.mb-0, .my-0 {
+
+    text-align: center;
+}
+
 .mb-xl-0, .my-xl-0 {
     text-align: center;
 }

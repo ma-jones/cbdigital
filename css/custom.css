@@ -16,6 +16,11 @@ CSS
   display: block;
 }
 
+.dropdown, .dropleft, .dropright, .dropup {
+    position: initial;
+    width: auto;
+}
+
 .navbar-expand-lg {
 	background-image: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%,
 	rgba(250, 0, 118, 0.8) 100%);

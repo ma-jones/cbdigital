@@ -28,6 +28,11 @@ body{
     text-align: center;
 }
 
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+    width: 100%;
+}
+
 .navbar-expand-lg {
 	background-image: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%,
 	rgba(250, 0, 118, 0.8) 100%);

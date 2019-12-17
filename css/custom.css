@@ -12,9 +12,9 @@ body{
 
 CSS
 
-.dropdown:hover .dropdown-menu {
+/*.dropdown:hover .dropdown-menu {
   display: block;
-}
+}*/
 
 .dropdown, .dropleft, .dropright, .dropup {
     position: initial;

@@ -16,7 +16,7 @@ CSS
   display: block;
 }*/
 
-.dropdown, .dropleft, .dropright, .dropup {
+.dropdown{
     position: initial;
     width: auto;
 }

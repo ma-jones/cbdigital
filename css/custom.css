@@ -163,6 +163,7 @@ body,
 	  background-size: cover;
 	  opacity: 0.5;
 	}
+	
 .item:nth-child(2) {
 	  background-image: url("../img/media-rooms.png");
 	  background-position: center center;

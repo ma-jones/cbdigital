@@ -14,10 +14,6 @@ body{
   display: block;
 }*/
 
-.carousel-item {
-	height: 70vh;
-}
-
 .dropdown{
     position: initial;
     width: auto;

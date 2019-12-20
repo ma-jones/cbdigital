@@ -39,7 +39,10 @@ body{
 }
 
 .navbar {
-border-color: rgb(196, 17, 115);
+	border-color: rgb(196, 17, 115);
+    /*position: fixed;
+    width: 100%;
+    z-index: 2;*/
 }
 
 .dropdown:hover .dropdown-menu {
@@ -163,7 +166,7 @@ body,
 	  background-size: cover;
 	  opacity: 0.5;
 	}
-	
+
 .item:nth-child(2) {
 	  background-image: url("../img/media-rooms.png");
 	  background-position: center center;

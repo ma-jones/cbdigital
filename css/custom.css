@@ -77,29 +77,27 @@ body{
 	z-index: 15;
 }
 
-.navbar-expand-lg ul{
+.navbar ul{
 	color: #fff;
 }
 
-.navbar-expand-lg li{
+.navbar li{
 	color: #fff;
 }
 
-.navbar-expand-lg li a{
+.navbar li a{
 	color: #fff;
 }
 
 /* Change the link color to #111 (black) on hover */
-.navbar-expand-lg li a:hover{
+.navbar li a:hover{
 	background-color: #111;
 }
 
 
 .navbar {
 	border-color: rgb(196, 17, 115);
-    /*position: fixed;
-    width: 100%;
-    z-index: 2;*/
+
 }
 
 .dropdown:hover .dropdown-menu {

@@ -92,10 +92,6 @@ body{
     background-color: #f4f4f4;
 }
 
-.paddy{
-	padding: 5px;
-}
-
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
 
     text-transform: uppercase;

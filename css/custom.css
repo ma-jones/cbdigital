@@ -93,9 +93,9 @@ body{
 }
 
 .container-link {
-	position: relative;
+	/*position: relative;
 	text-align: center;
-	color: white;
+	color: white;*/
 	padding: 5px;
   }
 

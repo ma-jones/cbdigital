@@ -68,7 +68,7 @@ body{
 	color: #f9f9f9;}
 
 .breadcrumb-item.active {
-	color: #f9f9f985;}
+	color: #000;}
 
 
 .navbar-expand-lg {
@@ -89,7 +89,7 @@ body{
 }
 
 .dropdown:hover .dropdown-menu {
-    background-color: #000;
+    background-color: #f4f4f4;
 }
 
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {

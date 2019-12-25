@@ -92,6 +92,12 @@ body{
     background-color: #fafafa;
 }
 
+.container-link {
+	position: relative;
+	text-align: center;
+	color: white;
+  }
+
 .centered {
 	position: absolute;
 	top: 50%;

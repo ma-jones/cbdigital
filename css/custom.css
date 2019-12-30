@@ -98,9 +98,6 @@ body{
 	color: white;*/
 	padding: 5px;
 	display: inline;
-  }
-
-  .show>.dropdown-menu {
 	left: 50%;
 	transform: translateX(-50%);
   }
